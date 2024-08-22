@@ -1,0 +1,12 @@
+spring.application.name=backend
+logging.level.org.springframework=info
+debug=true
+server.port=9595
+spring.jpa.hibernate.ddl-auto=update
+spring.datasource.url=jdbc:postgresql://localhost:5432/db_lojas_shopping?useSSL=false
+spring.datasource.username=postgres
+spring.datasource.password=aluno
+
+
+
+
